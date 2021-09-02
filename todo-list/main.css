@@ -1,0 +1,8 @@
+/* id는 앞에 #을 입력 후 이름 */
+#title {
+    font-size: 150%;
+}
+/* class는 앞에 . 을 입력 후 이름 */
+.title {
+    color:red
+}
